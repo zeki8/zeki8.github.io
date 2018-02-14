@@ -1,0 +1,14 @@
+h1 {color:#FF0000}
+
+h2 {color:rgb(0, 128, 255)}
+
+#nav {
+    border:5px dotted  red;
+
+}
+
+#nav a   {
+    text-decoration: none;
+    color: 0, 128, 255;
+
+}
